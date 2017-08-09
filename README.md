@@ -1,6 +1,6 @@
-## This is a [research code](https://meiert.com/en/blog/20140716/research-and-production/).
+### This is a [research code](https://meiert.com/en/blog/20140716/research-and-production/).
 
-# Multiple writes to the same `xml` file with `compress.zlib://` stream would fail to decode in browsers
+## Multiple writes to the same `xml` file with `compress.zlib://` stream would fail to decode in browsers
 
 #### Chrome, v60:
 

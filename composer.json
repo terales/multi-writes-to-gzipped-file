@@ -1,0 +1,22 @@
+{
+    "name": "terales/test-multiwrite-gzip",
+    "description": "Research a browser behavior with multiple writes to the gzip compressed file",
+    "type": "project",
+    "license": "MIT",
+    "scripts": {
+        "generate-files": "php generate-files.php",
+        "start-server": "php -S localhost:8000",
+        "check-files-from-browser": "start http://localhost:8000/serve.php?file=multi",
+        "check": [
+            "@generate-files",
+            "@check-files-from-browser"
+        ]
+    },
+    "authors": [
+        {
+            "name": "terales",
+            "email": "terales@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

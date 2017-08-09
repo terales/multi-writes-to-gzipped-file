@@ -25,6 +25,6 @@ composer check
 
 Try how different files served:
 
-* http://localhost:8000/serve.php?file=multi
-* http://localhost:8000/serve.php?file=remulti
-* http://localhost:8000/serve.php?file=one
+:x: http://localhost:8000/serve.php?file=multi
+:heavy_check_mark: http://localhost:8000/serve.php?file=remulti
+:heavy_check_mark: http://localhost:8000/serve.php?file=one

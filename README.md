@@ -2,8 +2,8 @@
 
 ## Multiple writes to the same `xml` file with `compress.zlib://` stream would fail to decode in browsers if served via `readfile()`
 
-Issue: https://github.com/samdark/sitemap/issues/44
-Question on StackOverflow: https://stackoverflow.com/questions/45598939/multiple-writes-to-the-same-compressed-xml-file-would-break-it-in-browsers
+* Issue: https://github.com/samdark/sitemap/issues/44
+* Question on StackOverflow: https://stackoverflow.com/questions/45598939/multiple-writes-to-the-same-compressed-xml-file-would-break-it-in-browsers
 
 #### Chrome, v60:
 

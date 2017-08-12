@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteBase /
+RewriteRule ^sitemap.xml.gz$ /serve-sitemap.php [T=application/x-httpd-php]
+RewriteRule ^sitemap-reference.xml.gz$ /serve-sitemap.php [T=application/x-httpd-php]

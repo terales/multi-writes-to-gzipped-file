@@ -1,0 +1,15 @@
+{
+    "name": "terales/multi-writes-to-gzipped-file",
+    "description": "Test suite to check if search engines accept multi-members gzipped file via HTTP and HTTPS",
+    "type": "project",
+    "require": {
+        "samdark/sitemap": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TerAleS",
+            "email": "terales@users.noreply.github.com"
+        }
+    ]
+}

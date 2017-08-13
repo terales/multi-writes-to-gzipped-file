@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>http://test-sitemap.terales.info/z-first-page.html</loc>
+ </url>
+ <url>
+  <loc>http://test-sitemap.terales.info/z-second-page.html</loc>
+  <lastmod>2017-08-12T15:13:51+00:00</lastmod>
+ </url>
+ <url>
+  <loc>http://test-sitemap.terales.info/z-third-page.html</loc>
+  <lastmod>2017-08-12T15:13:51+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+ </url>
+ <url>
+  <loc>http://test-sitemap.terales.info/z-fourth-page.html</loc>
+  <lastmod>2017-08-12T15:13:51+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.3</priority>
+ </url>
+</urlset>
